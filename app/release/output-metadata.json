@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.cloudlisten.music",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 2023100301,
+      "versionName": "2.2.5 Beta",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

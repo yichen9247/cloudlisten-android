@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_null"></string>
+    <string name="app_name">Cloudlisten</string>
+    <string name="app_named">Cloudlisten</string>
+    <string name="app_version">Version 2.2.5 Beta</string>
+
+    <string name="button_beok">OK</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_getupdate">Update</string>
+    <string name="button_submitting">Submitting</string>
+
+    <string name="action_updatlog">Update logs</string>
+    <string name="action_cheknews">Check for updates</string>
+    <string name="action_deveices">Development progress</string>
+    <string name="action_sponsors">Sponsor us</string>
+    <string name="action_privacys">Privacy Policy</string>
+    <string name="action_openreas">Open soure license</string>
+    <string name="action_settings">Software settings</string>
+    <string name="action_exitapps">Exit software</string>
+    <string name="navigation_title">Hello friend</string>
+    <string name="navigation_items1">Main options</string>
+    <string name="navigation_items2">Other options</string>
+    <string name="navigation_items1_1">About Cloudlisten</string>
+    <string name="navigation_items1_2">Official Announcement</string>
+    <string name="navigation_items1_3">Software Settings</string>
+    <string name="navigation_items2_1">Development progress</string>
+    <string name="navigation_items2_2">Open soure license</string>
+    <string name="navigation_items2_3">Check for updates</string>
+    <string name="navigation_items2_4">Exit software</string>
+    <string name="splashactivity_privacys_title">Privacy Policy</string>
+    <string name="navigation_signin">Login in</string>
+    <string name="splashactivity_privacys_button">Agree this policy</string>
+    <string name="navigation_subtitle">生命在于折腾，生命不息，折腾不止</string>
+
+    <string name="bottom_card_1">Main</string>
+    <string name="bottom_card_2">Search</string>
+    <string name="bottom_card_3">Assets</string>
+    <string name="bottom_card_4">Me</string>
+
+    <string name="about_item_0">Update logs</string>
+    <string name="about_item_1">Subscription updates</string>
+    <string name="about_item_2">Developer say</string>
+    <string name="about_item_3">Quick jump</string>
+    <string name="about_item_4">Privacy settings</string>
+    <string name="about_item_5">Check for updates</string>
+
+    <string name="about_quick_0">Join us</string>
+    <string name="about_quick_1">Official website</string>
+    <string name="about_quick_2">Author\'s blog</string>
+    <string name="about_quick_3">Sponsor us</string>
+    <string name="about_quick_4">Operational data</string>
+    <string name="about_quick_5">Development progress</string>
+
+    <string name="aaa_aaa">Your Mail</string>
+    <string name="aaa_ttt">Cloudlisten Beta</string>
+    <string name="aaa_eee">verification failed！</string>
+    <string name="aaa_ddd">Successfully submitted!</string>
+    <string name="aaa_bbb">Cloudlisten For Android</string>
+    <string name="aaa_fff">Already been submitted!</string>
+    <string name="aaa_ccc">Submitting, please wait...</string>
+
+    <string name="error_notinternet">Internet Error</string>
+    <string name="www_ttt">官网正在升级维护中，期待与你的下一次相遇！</string>
+    <string name="developer_nosay">Developers don\'t want to say anything yet!!</string>
+    <string name="subscription_updates">Please enter your email so that we can push the updated email to your mailbox.</string>
+
+    <string name="Privacy_Policy">
+        本应用非常重视用户隐私政策并严格遵守相关的法律规定。请您仔细阅读《隐私政策》后再继续使用。如果您继续使用我们的服务，表示您已经充分阅读和理解我们协议的全部内容。\n
+        本APP尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更优质的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。 您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。\n
+        1. 适用范围\n
+        (a) 在您注册本应用APP帐号时，您根据APP要求提供的个人注册信息；\n
+        (b) 在您使用本应用网络服务，或访问本应用平台网页时，本应用自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；\n
+        (c) 本应用通过合法途径从商业伙伴处取得的用户个人数据。\n
+        (d)本应用严禁用户发布不良信息，如裸露、色情和亵渎内容，发布的内容我们会进行审核，一经发现不良信息，会禁用该用户的所有权限，予以封号处理。\n
+        2. 信息使用\n
+        (a)本应用不会向任何无关第三方提供、出售、出租、分享或交易您的个人登录信息。如果我们存储发生维修或升级，我们会事先发出推送消息来通知您，请您提前允许本应用消息通知。\n
+        (b) 本应用亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本应用平台用户如从事上述活动，一经发现，本应用有权立即终止与该用户的服务协议。\n
+        (c) 为服务用户的目的，本应用可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息，或者与本应用合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）。\n
+        3. 信息披露\n
+        在如下情况下，本应用将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：\n
+        (a) 未经您事先同意，我们不会向第三方披露；\n
+        (b)为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；\n
+        (c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；\n
+        (d) 如您出现违反中国有关法律、法规或者本应用服务协议或相关规则的情况，需要向第三方披露；\n
+        (e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；\n
+        4. 信息存储和交换\n
+        本应用收集的有关您的信息和资料将保存在本应用及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或本应用收集信息和资料所在地的境外并在境外被访问、存储和展示。\n
+        4.6 如因用户违反本协议中的任何条款，微特网络有权依据本协议终止对违约用户钜学帐号提供服务。\n
+        5. Cookie的使用\n
+        (a) 在您未拒绝接受cookies的情况下，本应用会在您的计算机上设定或取用cookies ，以便您能登录或使用依赖于cookies的本应用平台服务或功能。本应用使用cookies可为您提供更加周到的个性化服务，包括推广服务。\n
+        (b) 您有权选择接受或拒绝接受cookies。您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能无法登录或使用依赖于cookies的本应用网络服务或功能。\n
+        (c) 通过本应用所设cookies所取得的有关信息，将适用本政策。\n
+        6. 本隐私政策的更改\n
+        (a)如果决定更改隐私政策，我们会在本政策中、本公司网站中以及我们认为适当的位置发布这些更改，以便您了解我们如何收集、使用您的个人信息，哪些人可以访问这些信息，以及在什么情况下我们会透露这些信息。\n
+        (b)本公司保留随时修改本政策的权利，因此请经常查看。如对本政策作出重大更改，本公司会通过网站通知的形式告知。\n
+        方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是本应用用户名及密码发生泄露，请您立即联络本应用客服，以便本应用采取相应措施。\n
+        感谢您花时间了解我们的隐私政策！我们将尽全力保护您的个人信息和合法权益，再次感谢您的信任！\n\n\n\n\n\n\n\n
+    </string>
+
+    <string name="loginin_success">Sign in success</string>
+    <string name="loginin_already">You have already claimed it today!</string>
+    <string name="loginin_success_text_2">days,Continuing our efforts, here is a message for you：\n\n</string>
+    <string name="loginin_success_text_1">Congratulations on your successful check-in today. You have accumulated check-in here for</string>
+
+    <string name="connect_failed">Server connection failed!</string>
+    <string name="connect_exception">Server connection exception!</string>
+    <string name="server_failed">Communication failure with server!</string>
+
+    <string name="device_abnormal">Warning: Device status is abnormal</string>
+    <string name="permissions_warning">Warning: Please grant permissions</string>
+    <string name="need_permissions">Running requires obtaining permissions</string>
+    <string name="permissions_changed">Android 13 permissions have changed</string>
+    <string name="need_permissions_text">Cloudlisten requires certain device permissions to run. Click OK to obtain permissions!</string>
+    <string name="permissions_warning_text">You must authorize the necessary permissions for the software, otherwise the software cannot be used properly!!!</string>
+    <string name="permissions_changed_text">Please go to Settings ->Applications ->Permission Management ->Open corresponding permissions, otherwise it cannot be used normally!</string>
+    <string name="device_abnormal_text">Detected that the current device is abnormal or the Android version of the current device is too low. Please replace the device and try again!</string>
+    <string name="permissions_changed_message">Because the file management permission of Android 13 has changed, clicking OK will automatically jump to the system settings. Please authorize the permission of \"manage all files\"!</string>
+
+    <string name="i_am_aware">OK</string>
+    <string name="stay_tunned">Please stay tuned!</string>
+    <string name="jumpwwwsite">Jump to browser</string>
+    <string name="openbrowser">Open in browser</string>
+    <string name="jumpbrowser">Jump to browser</string>
+    <string name="app_notice">Cloudlisten notice</string>
+    <string name="app_have_update">New version update</string>
+    <string name="ask_about_exit">Exit to Cloudlisten?</string>
+    <string name="app_notice_error">To get app notice error!</string>
+    <string name="reqtips_failed">APP network request failed!</string>
+    <string name="about_bottom_text">《Cloudlisten Privacy Policy》</string>
+    <string name="reqtips_exception">APP network request exception!</string>
+    <string name="start_to_checkupdates">Starting to check for updates!</string>
+    <string name="tips_lastversion">It is currently the latest version!</string>
+    <string name="open_in_browser_to_download">Open browser to download!</string>
+    <string name="appstatus_error">APP status is abnormal, about to exit!</string>
+    <string name="action_exitted">Press the return key again to exit the program</string>
+    <string name="java_asdeveloper">This feature is currently under development, please stay tuned!</string>
+    <string name="error_developer_say">Encountered an error while obtaining the developer\'s account!</string>
+
+    <string name="app_updatelogs">
+        The update log for Cloud Listening Music 2.2.5 Beta version: \n
+        1.The pop-up UI in the software has undergone a new upgrade.\n
+        2.The software\'s internal settings interface has undergone a new upgrade.\n
+        3.Add many channels for feedback and redirec.\n
+        4.This time, all your data will be cleared.\n
+        5.The software settings page has added some Easter eggs.
+    </string>
+
+</resources>

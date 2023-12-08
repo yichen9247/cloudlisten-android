@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cloudlisten.music.MainActivity">
+
+    <item
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:id="@+id/action_cheknews"
+        android:icon="@mipmap/ic_update"
+        android:title="@string/action_cheknews"/>
+    <item
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:id="@+id/action_deveices"
+        android:icon="@mipmap/ic_timer"
+        android:title="@string/action_deveices"/>
+    <item
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_github"
+        android:id="@+id/action_openreas"
+        android:title="@string/action_openreas"/>
+    <item
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:id="@+id/action_sponsors"
+        android:icon="@mipmap/ic_currency"
+        android:title="@string/action_sponsors"/>
+    <item
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_cog"
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"/>
+    <item
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_exit"
+        android:id="@+id/action_exitapps"
+        android:title="@string/action_exitapps"/>
+
+</menu>

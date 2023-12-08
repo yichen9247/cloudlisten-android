@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8FF"
+    android:fitsSystemWindows="true"
+    tools:context=".WebActivity">
+
+    <com.xuexiang.xui.widget.actionbar.TitleBar
+        android:id="@+id/xui_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color3"
+        app:tb_actionPadding="20dp"
+        app:tb_barHeight="?android:actionBarSize"
+        app:tb_leftImageResource="@drawable/ic_arrow_left"
+        app:tb_sideTextPadding="20dp"
+        app:tb_titleTextColor="@color/color3"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:id="@+id/weblayout"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?android:actionBarSize">
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

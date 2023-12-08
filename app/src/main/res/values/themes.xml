@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Cloudlisten" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:colorControlNormal" tools:targetApi="lollipop">#FFB6C1</item>
+    </style>
+
+    <style name="Splash.Theme.Cloudlisten" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowBackground">@drawable/background_05</item>
+    </style>
+
+    <style name="Theme.Cloudlisten" parent="Base.Theme.Cloudlisten"/>
+    <style name="Splash.Cloudlisten" parent="Splash.Theme.Cloudlisten"/>
+
+
+</resources>

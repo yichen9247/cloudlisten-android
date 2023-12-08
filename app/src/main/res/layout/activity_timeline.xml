@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:background="#F8F8FF"
+    tools:context="TimeLineActivity"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.xuexiang.xui.widget.actionbar.TitleBar
+        app:tb_barHeight="65dp"
+        app:tb_actionPadding="20dp"
+        app:tb_sideTextPadding="20dp"
+        android:layout_marginTop="5dp"
+        tools:ignore="MissingConstraints"
+        android:background="@color/color3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tb_titleTextColor="@color/color3"
+        app:tb_leftImageResource="@mipmap/ic_exit"
+        app:tb_titleText="开发进度"/>
+
+    <ExpandableListView
+        android:id="@+id/expandlist"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/courses_title"
+        android:cacheColorHint="#00000000"
+        android:divider="@null"
+        tools:ignore="MissingConstraints,UnknownId" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cloudlisten.music.MainActivity">
+
+    <item
+        android:id="@+id/accelerator"
+        android:icon="@mipmap/ic_face"
+        android:enabled="true"
+        android:title="@string/bottom_card_1" />
+
+    <item
+        android:id="@+id/rotation"
+        android:icon="@mipmap/ic_face"
+        android:title="@string/bottom_card_2"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@mipmap/ic_face"
+        android:enabled="true"
+        android:title="@string/bottom_card_4"/>
+
+</menu>

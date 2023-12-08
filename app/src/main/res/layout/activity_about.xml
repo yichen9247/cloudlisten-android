@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8FF"
+    android:fitsSystemWindows="true"
+    tools:context=".AboutActivity">
+
+    <com.xuexiang.xui.widget.actionbar.TitleBar
+        android:id="@+id/xui_titlebar"
+        app:tb_actionPadding="20dp"
+        app:tb_sideTextPadding="20dp"
+        android:layout_marginTop="5dp"
+        tools:ignore="MissingConstraints"
+        android:background="@color/color3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tb_titleTextColor="@color/color3"
+        app:tb_barHeight="?android:actionBarSize"
+        app:tb_titleText="@string/action_settings"
+        app:tb_leftImageResource="@drawable/ic_arrow_left"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/about_logo"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/app_named"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_version"
+            android:textSize="16sp" />
+
+        <ListView
+            android:id="@+id/about_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"/>
+
+        <TextView
+            android:id="@+id/textview"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/color7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/about_bottom_text"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

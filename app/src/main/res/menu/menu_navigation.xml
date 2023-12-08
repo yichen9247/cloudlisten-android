@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/n_action_signin"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/navigation_signin"/>
+
+    <item
+        android:id="@+id/main_item1"
+        android:title="@string/navigation_items1">
+
+        <menu>
+            <item
+                android:id="@+id/navigation_items1_1"
+                android:icon="@mipmap/ic_information"
+                android:title="@string/navigation_items1_1" />
+            <item
+                android:id="@+id/navigation_items1_2"
+                android:icon="@mipmap/ic_bell"
+                android:title="@string/navigation_items1_2" />
+            <item
+                android:id="@+id/navigation_items1_3"
+                android:icon="@mipmap/ic_cog"
+                android:title="@string/navigation_items1_3" />
+
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/main_item2"
+        android:title="@string/navigation_items2">
+
+        <menu>
+            <item
+                android:id="@+id/navigation_items2_1"
+                android:icon="@mipmap/ic_timer"
+                android:title="@string/navigation_items2_1" />
+            <item
+                android:id="@+id/navigation_items2_2"
+                android:icon="@mipmap/ic_github"
+                android:title="@string/navigation_items2_2" />
+            <item
+                android:id="@+id/navigation_items2_3"
+                android:icon="@mipmap/ic_update"
+                android:title="@string/navigation_items2_3" />
+            <item
+                android:id="@+id/navigation_items2_4"
+                android:icon="@mipmap/ic_exit"
+                android:title="@string/navigation_items2_4" />
+
+        </menu>
+
+    </item>
+
+
+</menu>
